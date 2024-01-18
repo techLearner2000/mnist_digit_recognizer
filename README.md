@@ -10,6 +10,10 @@ Four files are available:
 - t10k-images-idx3-ubyte.gz: test set images (1648877 bytes)
 - t10k-labels-idx1-ubyte.gz: test set labels (4542 bytes)
 
+# Models
+- SGD
+- CNN
+
 # References
 
 [MNIST](http://yann.lecun.com/exdb/mnist/)
